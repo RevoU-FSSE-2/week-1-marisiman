@@ -4,21 +4,24 @@
 
 Home
 ==================
-menu home berisi tampilan menu awal 
+Menu home berisi tampilan menu awal 
+
 ![home](my-photo/image.png)
 
 ---
 
 About
 ==================
-menu about berisi tampilan profil 
+Menu about berisi tampilan profil 
+
 ![about](my-photo/image-1.png)
 
 ---
 
 Contact
 ==================
-menu contact berisi tampilan kontak 
+Menu contact berisi tampilan kontak 
+
 ![contact](my-photo/image-2.png)
 
 ---
