@@ -1,0 +1,39 @@
+/*Test make a css*/
+
+h1 {
+    color: royalblue;font-style: oblique;
+}
+
+p {
+    font-style: oblique;
+}
+
+button {
+    width:100px;
+    height:25px;
+    border-radius: 10px;
+}
+
+.navigation ul{
+
+    margin:0;
+    padding:0;
+}
+.navigation li{
+
+    float:left; 
+    padding-top: 5px;
+    padding-left: 0px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    display: inline;
+    position:relative;
+}
+.navigation a:hover{
+    background: rgb(16, 120, 211);
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    color: yellow;
+}
