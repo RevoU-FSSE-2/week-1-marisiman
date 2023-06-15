@@ -25,4 +25,4 @@ menu contact berisi tampilan kontak
 
 Cek disini
 ------------------
-_[Akses ke website saya](iman-maris-mingguan-w1.netlify.app)
+_[Akses ke website saya](https://iman-maris-weekly-w1.netlify.app/)
