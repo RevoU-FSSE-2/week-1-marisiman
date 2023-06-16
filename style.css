@@ -1,12 +1,23 @@
 /*Test make a css*/
 
 h1 {
-    color: royalblue;font-style: oblique;
+    color: royalblue;
+    font-style: oblique;
+    display:block; 
 }
 
 p {
     font-style: oblique;
+    margin-bottom: 16px;
 }
+
+body {
+    background: #f1f1f1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
 
 button {
     width:100px;
@@ -14,11 +25,22 @@ button {
     border-radius: 10px;
 }
 
+
+button:hover {
+    cursor: pointer;
+    background: #8dc2c2;
+  }
+
+nav{
+margin-bottom: 30px;
+}
+
 .navigation ul{
 
     margin:0;
     padding:0;
 }
+
 .navigation li{
 
     float:left; 
@@ -29,7 +51,14 @@ button {
     display: inline;
     position:relative;
 }
+
+.navigation a{
+float: left;
+text-align: center;
+}
+
 .navigation a:hover{
+    cursor: pointer;
     background: rgb(16, 120, 211);
     padding-top: 5px;
     padding-left: 10px;
@@ -37,3 +66,5 @@ button {
     padding-bottom: 0px;
     color: yellow;
 }
+
+
